@@ -19,14 +19,13 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-router-dom": "5.3.4",
-    "strapi-provider-upload-cloudinary": "^3.6.11",
     "styled-components": "5.3.3"
   },
   "author": {
     "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "86615397-ee0d-4c6a-8045-ee719b3f175e"
+    "uuid": "aef9f39b-eb7a-4d7e-b5ac-df8f77c0ef61"
   },
   "engines": {
     "node": ">=18.0.0 <=20.x.x",

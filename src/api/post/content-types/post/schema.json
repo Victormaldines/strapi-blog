@@ -29,8 +29,8 @@
     },
     "slug": {
       "type": "uid",
-      "targetField": "title",
-      "required": true
+      "required": true,
+      "targetField": "title"
     },
     "author": {
       "type": "relation",
