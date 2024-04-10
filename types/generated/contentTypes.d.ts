@@ -683,6 +683,7 @@ export interface ApiAuthorAuthor extends Schema.CollectionType {
     singularName: 'author';
     pluralName: 'authors';
     displayName: 'authors';
+    description: '';
   };
   options: {
     draftAndPublish: true;
